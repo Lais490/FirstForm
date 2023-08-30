@@ -1,0 +1,68 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+body {font-family: 'Mulish', sans-serif;
+    background-color: rgb(220, 217, 217);
+
+padding: 12px 12px;}
+
+fieldset{padding: 12px 12px;}
+fieldset legend {font-size: 32px;
+font-weight: bold;
+margin-bottom: 20px;
+}
+
+input {padding: 5px 5px;
+border-radius: 5px;
+border: 1px solid black;
+margin-top: 6px;
+margin-bottom: 12px;
+background-color: rgb(221, 214, 214);}
+
+select {
+    padding: 5px 5px;
+    width: 120px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 6px;
+    margin-bottom: 12px;
+    appearance: none;
+    background-color: rgb(221, 214, 214);
+    color: rgb(109, 107, 107);
+    border: 1px solid black;
+}
+
+
+
+
+textarea {padding: 5px 5px;
+    width: 500px;
+    height: 300px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 6px;
+    margin-bottom: 24px;
+    background-color: rgb(221, 214, 214);
+    border: 1px solid black;}
+
+    button{border: none;
+    background-color: rgb(88, 88, 238);
+color: aliceblue;
+padding: 10px;
+border-radius: 8px;
+cursor: pointer;}
+
+button:hover {background-color: rgb(2, 2, 255);
+font-weight: bold;}
+
+.dados input {width: 200px;}
+
+
+
+
+
+
+
+
+
